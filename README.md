@@ -66,7 +66,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <a href="https://public.tableau.com/app/profile/armondo.dauti/vizzes">
 
-<img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/-Tableau-1e376b.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
 
 </a>
 
