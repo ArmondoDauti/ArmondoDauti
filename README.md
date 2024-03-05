@@ -1,4 +1,4 @@
-<div align="center"> <h1 align="center"> Heyyy</h1>
+<div align="center"> <h1 align="center"> Heyy there!</h1>
 
 <h2 align="center"> My name is Armondo Dauti and I am a Data Analyst </h2></div>
 
@@ -38,7 +38,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face: </h1> </div>
 
-<b>I have also experience using these data visualization tools.<b>
+<b>I have also experience using these data visualisation tools.<b>
 
 <p align="center">
 
@@ -58,13 +58,13 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nisanth-mahalingam-8a281215b/">
+<a href="https://www.linkedin.com/in/armondo-dauti-a9b94419b//">
 
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
 
-<a href="https://public.tableau.com/app/profile/nisanth.mahalingam/vizzes">
+<a href="[https://public.tableau.com/app/profile/nisanth.mahalingam/vizzes](https://public.tableau.com/app/profile/armondo.dauti/vizzes)">
 
 <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" />
 
