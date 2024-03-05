@@ -22,7 +22,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <p align="center">
 
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
 
@@ -38,7 +38,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face: </h1> </div>
 
-<b>I have also experience using these data visualisation tools.<b>
+<b>I also have experience using these data visualisation tools.<b>
 
 <p align="center">
 
@@ -70,7 +70,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 </a>
 
-<a href="mailto: (insert Email)">
+<a href="mailto: (dautaj280@hotmail.com)">
 
 <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 
