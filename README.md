@@ -4,15 +4,15 @@
 
 <p align="center">
 
-I’m currently working on building my computational finance and algorithmic trading portfolio.
+I’m currently developing projects that bridge data, insights, and decision-making to create meaningful impact.
 
 <p align="center">
 
-I’m currently learning how to build algorithmic trading bots on QuantConnect and Computational Finance models on Github
+I’m currently exploring advanced data applications — from algorithmic modelling to insightful analytics — to expand my technical toolkit.
 
 <p align="center">
 
-Fun fact: I am involed in Crypto trading, co-founder of a small business and enjoy travelling.
+Fun fact: I enjoy spotting market trends through data, co-founded a small business, and love travelling in my downtime.
 
 <p></p>
 
@@ -46,7 +46,7 @@ Fun fact: I am involed in Crypto trading, co-founder of a small business and enj
 
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 
-<a href="#" target="_blank"> <img src="[https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png](https://public.tableau.com/app/profile/armondo.dauti/vizzes)" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
 
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 
